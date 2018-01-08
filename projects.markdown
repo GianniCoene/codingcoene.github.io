@@ -5,13 +5,13 @@ date: 2018-01-08 18:29:00 Z
 
 ## Internship:
 
-<span class="image left"><img src="{{ "/images/zorabotImage.jpg" | absolute_url }}" alt="Dominion" /></span>
+<span class="image left"><img src="{{ "/images/zorabotImage.PNG" | absolute_url }}" alt="ZoraRobotics Zora bot" /></span>
 
 The final part of my Bachelor degree was my internship. I did my internship at ZoraRobotics NV in Ostend, Belgium.
 
-## Projects:
+<a href="http://www.zorarobotics.be/index.php/nl/" class="button">Website</a>
 
-<span class="image left"><img src="{{ "/images/dominionImage.jpg" | absolute_url }}" alt="Dominion" /></span>
+## Projects:
 
 <h3>Jam Search</h3>
 
@@ -48,7 +48,7 @@ My first school project was a group project. Our objective was to create a digit
 different cards that each had unique actions. This was a very fun project to work on and my first real experience with how programming goes. We had a very slow start and it was a
 real eye opener for us as we continually ran into problems we had to fix on our own.
 
-<li><a href="https://github.com/Skydragonsz/project-dominion" class="button special">View on GitHub</a></li>
+<a href="https://github.com/Skydragonsz/project-dominion" class="button special">View on GitHub</a>
 
 <span class="image right"><img src="{{ "/images/GeometryWarsImage.jpg" | absolute_url }}" alt="Geometry Wars" /></span>
 
@@ -60,7 +60,7 @@ employees, ...
 We made the game engine from scratch only using a Java library to make it a little bit easier.
 We designed every aspect of the game using the realy Geometry Wars as reference.
 
-<li><a href="https://github.com/QuintenDegraeve/Project-GeometryWars-G7" class="button special">View on GitHub</a></li>
+<a href="https://github.com/QuintenDegraeve/Project-GeometryWars-G7" class="button special">View on GitHub</a>
 
 <span class="image left"><img src="{{ "/images/arduinoImage.jpg" | absolute_url }}" alt="Arduino" /></span>
 
@@ -71,5 +71,5 @@ People could visit the website, login using their account and make reservations 
 The smart lock was there to prevent unauthorized access. This means that people could only go into the workshop when they had made a reservation and if they had an access card.
 This project focused more on real life projects and communication with the customer.
 
-<li><a href="https://github.com/vantorreverlindelara/FabLabHowestBrugge" class="button special">View on GitHub</a></li>
-<li><a href="#" class="button special">Website</a></li>
+<a href="https://github.com/vantorreverlindelara/FabLabHowestBrugge" class="button special">View on GitHub</a>
+<a href="#" class="button">Website</a>

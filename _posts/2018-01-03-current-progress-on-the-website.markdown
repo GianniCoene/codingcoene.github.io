@@ -13,4 +13,3 @@ I'll add working buttons and links as soon as possible.
 
 Issues:
 * Not all projects have a github page or link.
-* Contact form is not working yet.

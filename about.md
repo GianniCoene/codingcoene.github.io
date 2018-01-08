@@ -13,7 +13,7 @@ layout: page
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
 Welcome, my name is Gianni Coene and currently I am an aspiring front-end developer. Currently I am a student at Howest, Hogeschool West-Vlaanderen in Bruges.
-  I am currently wrapping up my bachelors degree in Toegepaste Informatica - Software and System Engineer.
+I am currently wrapping up my bachelors degree in Toegepaste Informatica - Software and System Engineer.
 
 You can find practical info such as my address, phone number, e-mail and social media links down below.
 If you have any questions, feel free to contact me using the contact form below.

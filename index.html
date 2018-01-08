@@ -1,6 +1,6 @@
 ---
 title: Jekyll Theme - Home Page - Massively
-layout: 
+layout:
 description: Every great website starts with a great homepage. The homepage tells
   your viewers what your site is all about and gives your viewers a place to come
   back to.
@@ -63,7 +63,7 @@ sitemap:
 								<header class="major">
 									<h2><a href="#">Welcome to my Portfolio Website!</a></h2>
 								</header>
-								<a href="#" class="image main"><img src="{{ "/images/codingImage.jpg" | absolute_url }}" alt="Coding" /></a>
+								<a href="#" class="image main"><img src="{{ "/images/codingImage.jpg" | relative_url }}" alt="Coding" /></a>
                 <p>This website serves as a Portfolio. On here you will find important information such as my address, telephone number, e-mail and social media links.
                 </p>
                 <p>You'll also find all of my previous projects I worked on and I will be listing all of my important skills that I gained throughout the years.
@@ -89,7 +89,7 @@ sitemap:
   										<span class="date">{{ post.date | date_to_string }}</span>
   										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
   									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | relative_url }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
   										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>

@@ -5,7 +5,7 @@ date: 2018-01-08 18:29:00 Z
 
 ## Internship:
 
-<span class="image left"><img src="{{ "/images/zorabotImage.PNG" | absolute_url }}" alt="ZoraRobotics Zora bot" /></span>
+<span class="image left"><img src="{{ "/images/zorabotImage.PNG" | relative_url }}" alt="ZoraRobotics Zora bot" /></span>
 
 The final part of my Bachelor degree was my internship. I did my internship at ZoraRobotics NV in Ostend, Belgium.
 
@@ -42,7 +42,7 @@ All of this data was stored on a cloud database using google cloud.
 
 ## School projects:
 
-<span class="image left"><img src="{{ "/images/dominionImage.jpg" | absolute_url }}" alt="Dominion" /></span>
+<span class="image left"><img src="{{ "/images/dominionImage.jpg" | relative_url }}" alt="Dominion" /></span>
 
 <h3>Dominion</h3>
 
@@ -52,7 +52,7 @@ real eye opener for us as we continually ran into problems we had to fix on our 
 
 <a href="https://github.com/Skydragonsz/project-dominion" class="button special">View on GitHub</a>
 
-<span class="image right"><img src="{{ "/images/GeometryWarsImage.jpg" | absolute_url }}" alt="Geometry Wars" /></span>
+<span class="image right"><img src="{{ "/images/GeometryWarsImage.jpg" | relative_url }}" alt="Geometry Wars" /></span>
 
 <h3>Geometry Wars</h3>
 
@@ -64,7 +64,7 @@ We designed every aspect of the game using the realy Geometry Wars as reference.
 
 <a href="https://github.com/QuintenDegraeve/Project-GeometryWars-G7" class="button special">View on GitHub</a>
 
-<span class="image left"><img src="{{ "/images/arduinoImage.jpg" | absolute_url }}" alt="Arduino" /></span>
+<span class="image left"><img src="{{ "/images/arduinoImage.jpg" | relative_url }}" alt="Arduino" /></span>
 
 <h3>FabLab Howest</h3>
 

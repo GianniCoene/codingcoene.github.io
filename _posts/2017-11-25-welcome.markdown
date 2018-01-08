@@ -1,0 +1,16 @@
+---
+title: Welcome
+date: 2017-11-25 20:09:00 Z
+author: GIanni
+excerpt: This is my very first post. This won't be about IT, this is more of a welcome
+  message for everyone to see ;).
+image: "/uploads/WelcomeImage.jpg"
+---
+
+## Welcome to my blog!
+
+This is my very first post. You an see this post as a welcome message or a testing of sorts.
+
+Please stay tuned for more posts. I'll try to regularly make a post on here.
+
+See you around!

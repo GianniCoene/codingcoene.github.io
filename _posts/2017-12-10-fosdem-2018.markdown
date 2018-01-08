@@ -1,6 +1,6 @@
 ---
 title: Fosdem 2018
-date: 2018-01-08 20:20:00 Z
+date: 2017-12-10 18:02:00 Z
 author: Gianni
 excerpt: 'Short announcement that I will be attending Fosdem 2018 in Brussels. Fosdem
   is an Open Source convention in Brussels.  '

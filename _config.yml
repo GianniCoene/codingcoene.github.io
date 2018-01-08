@@ -25,6 +25,6 @@ url:
 twitter_username: Arkloy_
 github_username: GianniCoene
 markdown: kramdown
-theme: massively_jekyll_theme
+theme: minima
 plugins:
 - jekyll-feed

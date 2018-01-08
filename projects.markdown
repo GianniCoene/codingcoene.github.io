@@ -11,7 +11,7 @@ The final part of my Bachelor degree was my internship. I did my internship at Z
 
 <a href="http://www.zorarobotics.be/index.php/nl/" class="button">Website</a>
 
-
+<br>
 
 ## Projects:
 

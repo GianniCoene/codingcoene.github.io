@@ -3,7 +3,7 @@ title: About Me
 description: Basic information
 sitemap:
   priority: 0.7
-  lastmod: 2017-11-02 00:00:00 Z
+  lastmod: 2017-11-02 01:00:00 +01:00
   changefreq: weekly
 layout: page
 ---

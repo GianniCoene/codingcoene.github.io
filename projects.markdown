@@ -1,6 +1,6 @@
 ---
 title: Projects
-date: 2018-01-08 18:29:00 Z
+date: 2018-01-08 19:29:00 +01:00
 ---
 
 ## Internship:

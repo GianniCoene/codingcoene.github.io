@@ -29,7 +29,6 @@ description: Page listing all of my skills.
       <li>Visual Studio</li>
       <li>Unity</li>
       <li>Windows/Linux Servers</li>
-      <li>Just kidding that last one was the third.</li>
     </ul>
   </div>
 
